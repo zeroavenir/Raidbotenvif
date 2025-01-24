@@ -91,10 +91,6 @@ async def icone(ctx):
 
 @client.command()
 async def dmall(ctx, *, message: str):
-    if ctx.author.id != 'ton id discord' :
-        print(f"{ctx.author} a essayé d'executer une commande alors qu'il a pas les perms ce tdc.")
-        return
-
     sent_count = 0
     failed_count = 0
     await ctx.send("uiui j'envoie le plus rapidement possible bb")
