@@ -9,7 +9,7 @@ Problemes : J'ai fait dla merde et si tu mets un lien discord.gg pour invite dan
 
 !bezpermm : J'ai mal ecrit la commande mais jla laisse c drole. !bezpermm et ça supprime tout les roles du serv + everyone auront les perms pour parler et voir les salons.
 
-!icone : je sais mm pas pq jai fait cette commande. !icone <image en PNG JPG JPEG ou GIF pour changer l'icone du serv
+!icone : je sais mm pas pq jai fait cette commande. !icone (image en PNG JPG JPEG ou GIF pour changer l'icone du serv)
 
 !dmall : un dmall ultra lent, un dm toutes les 2.5 sec a toute le monde dans le serv. !dmall (message), le bot te dira que il est en train d'envoyer, et a la fin il te dira a combien il a envoyé et combien a fail.
 
