@@ -1,7 +1,8 @@
 # Raidbotenvif
 J'ai fait un raid bot + dmall ultra lent 
 
-Explication : !raid (le nom des salon et des nouvelles categorie qui vont spawn avec des oublie pas les _ a chaque mot)ESPACE(Le message qui sera spam) (et si tu mets un slash a la fin de ton mess spam, tu peux changer le nom du serv)
+Explication : !raid (le nom des salon et des nouvelles categorie qui vont spawn avec des _ a chaque mot)ESPACE(Le message qui sera spam)/ ou pas de slash pour ne pas changer le nom du serv(et si tu mets un slash a la fin de ton mess spam, tu peux changer le nom du serv)
+
 Raid : Supprime tout les catégories et salons logique + Crée 10nouvelle categorie avec 10nouveaux salon, et 10message spam dans les 10salons.
 
 Problemes : J'ai fait dla merde et si tu mets un lien discord.gg pour invite dans le mess spam, ca coupe ton invite MDRRR
